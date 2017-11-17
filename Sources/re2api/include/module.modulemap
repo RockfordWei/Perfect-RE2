@@ -1,0 +1,4 @@
+module re2api [system] {
+  header "cre2.h"
+  export *
+}
