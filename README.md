@@ -43,11 +43,11 @@ Perfect RE2 is a Swift wrapper of Google's RE2.
 
 # Acknowledgement
 
-All C++ Codes are bases on [google re2](https://github.com/google/re2.git) and [marcomaggi cre2](https://github.com/marcomaggi/cre2.git). Please the check license and copyright information from the original sources.
+All C++ Codes are based on [google's re2](https://github.com/google/re2.git) and [marcomaggi's cre2](https://github.com/marcomaggi/cre2.git). Please the check license and copyright information from the original sources.
 
 # NOTE
 
-This is not an official product of Perfect because it requires **C++11** to build, as marked in `test.sh`:
+This is **not** an official product of Perfect because it requires **C++11** to build, as marked in `test.sh`:
 
 
 ```
